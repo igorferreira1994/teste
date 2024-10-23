@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Igor\\Documents\\teste\\TesteB3\\TesteB3.Server\\..\\testeb3.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

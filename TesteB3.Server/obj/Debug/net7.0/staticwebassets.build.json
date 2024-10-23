@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+jB9/cOX2azncN7G0XJzL0AiJlBkjDn8dW6esHYNF5s=",
+  "Source": "TesteB3.Server",
+  "BasePath": "_content/TesteB3.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Igor\\Documents\\teste\\TesteB3\\testeb3.client\\testeb3.client.esproj",
+      "Version": 2,
+      "Source": "testeb3.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
